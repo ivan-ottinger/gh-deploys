@@ -19,3 +19,4 @@ jobs:
             .
             !.git*
             !readme.md
+            !wp-content/plugins/ivan-test/test.md
