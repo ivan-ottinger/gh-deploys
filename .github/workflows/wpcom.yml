@@ -18,3 +18,4 @@ jobs:
           path: |
             .
             !.git*
+            !wp-content/plugins/ivan-test/test.md
