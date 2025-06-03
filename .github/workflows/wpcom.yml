@@ -18,5 +18,5 @@ jobs:
           path: |
             .
             !.git*
+            !plugins/ivan-test/test.md
             !readme.md
-            !wp-content/plugins/ivan-test/test.md
