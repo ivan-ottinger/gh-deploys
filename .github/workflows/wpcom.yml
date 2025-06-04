@@ -20,3 +20,4 @@ jobs:
             !.git*
             !plugins/ivan-test/test.md
             !readme.md
+          retention-days: 1
