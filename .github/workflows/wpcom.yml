@@ -18,5 +18,4 @@ jobs:
           path: |
             .
             !.git*
-            nonexistingfile
           retention-days: 1
