@@ -12,7 +12,7 @@ add_action( 'admin_notices', 'ane_show_admin_notice' );
 function ane_show_admin_notice() {
     ?>
     <div class="notice notice-success is-dismissible">
-        <p><strong>TEST 2 Admin Notice Example:</strong> This is a success message in the WordPress admin.</p>
+        <p><strong>TEST 3 Admin Notice Example:</strong> This is a success message in the WordPress admin.</p>
     </div>
     <?php
 }
