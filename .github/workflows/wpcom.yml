@@ -14,7 +14,7 @@ jobs:
       - name: Upload the artifact
         uses: actions/upload-artifact@v4
         with:
-          name: wpco m
+          name: wp co m
           path: |
             .
             !.git*
